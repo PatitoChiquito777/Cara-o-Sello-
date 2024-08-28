@@ -1,0 +1,7 @@
+Hola UwUimport random
+def coin_gg():
+    vuelta=random.randint(0,1)
+    if vuelta==0:
+        return 'cara'
+    else:
+        return 'sello'
